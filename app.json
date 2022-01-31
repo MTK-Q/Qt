@@ -1,13 +1,13 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
-  "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
+  "name": "بـوت فيرسـون",
+  "description": "بـوت فيرسـون العربي اول سـورس في مـصـر 🇪🇬 - قناة السورس @BU_QH ",
+  "logo": "https://telegra.ph/file/fc95e38a89caaf59e20c1.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/jmthon",
+  "repository": "https://github.com/islam-20055/TUSERBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,12 +61,12 @@
     },
     "TZ": {
       "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthon-ar",
+      "value": "BU-QH",
       "required": false
     }
   },
